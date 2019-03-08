@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="80px" viewBox="0 0 150 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>IbagueJS amarillo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="IbagueJS-amarillo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFE400" fill-rule="nonzero" x="0" y="0" width="150" height="80"></rect>
+        <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="111" cy="41" r="19"></circle>
+        <text id="{JS}" font-family="Bariol-Regular, Bariol" font-size="20" font-weight="normal" letter-spacing="-1.142422e-08" fill="#FFE700">
+            <tspan x="95.03" y="47">{JS}</tspan>
+        </text>
+        <text id="Ibagué" font-family="Bariol-Regular, Bariol" font-size="26" font-weight="normal" letter-spacing="-2.750275e-08" fill="#0D0008">
+            <tspan x="20.1930001" y="47">Ibagué</tspan>
+        </text>
+    </g>
+</svg>
